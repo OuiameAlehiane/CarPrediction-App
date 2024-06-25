@@ -4,17 +4,7 @@ from joblib import load
 import numpy as np
 
 # Retapez le chemin du fichier manuellement sans copier-coller
-file_path = r"C:\Users\DELL\Downloads\CAR_CLEAN.csv"
-
-# Vérifiez si le fichier existe et chargez le fichier CSV
-try:
-    df = pd.read_csv(file_path)
-    print("File loaded successfully")
-except FileNotFoundError:
-    print(f"File not found: {file_path}")
-except OSError as e:
-    print(f"OS error: {e}")
-
+df = pd.read_csv("CAR_CLEAN.csv")
 
 # Loading ML model
 model = load("xgboost_pipeline.joblib")
