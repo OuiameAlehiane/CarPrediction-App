@@ -28,7 +28,7 @@ st.markdown("<div style='background-color:#219C90; border-radius:50px; align-ite
 
 col1 = st.container()
 with col1:
-    st.image("C:\\Users\\DELL\\Desktop\\VehiculeSale.gif", use_column_width=True)
+    st.image("VehiculeSale.gif", use_column_width=True)
     selected_marque = st.selectbox("Choisissez la Marque de Votre Voiture", options=df['Marque'].unique())
     filtered_models = df[df['Marque'] == selected_marque]['Modèle'].unique()
     selected_model = st.selectbox("Choisissez le Modèle de Votre Voiture", options=filtered_models)
