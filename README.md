@@ -7,6 +7,7 @@ Ce projet vise à faciliter l'achat des voitures d'occassion tout en estimant le
 
 *Extraction: GoogleColab, BeautifulSoup, Requests, Webscraper(Extension Chrome)
 
+
 *Manipulation, Visualisation et Entrainement des données: Python, Pandas, Numpy, Matplotlib, Seaborn, Sickitlearn, Jupyter NoteBook
 
 *Déploiement: Streamlit, GitHub, StreamlitCloud
