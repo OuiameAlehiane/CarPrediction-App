@@ -107,6 +107,7 @@ ESSENCE ET LPG SONT LES MOINS CHERS : Les voitures à essence et à LPG ont les
 LES VOITURES ECONOMIQUES SONT SIGNIFICATIVEMENT PLUS CHERS: Le prix moyen des voitures automatiques est nettement supérieur à celui des voitures manuelles.
 
 DIFFERENCE DE PRIX IMPORTANTE : L'écart de prix entre les deux types de boîte de vitesses est considérable, ce qui suggère une distinction claire sur le marché.
+
 ![image](https://github.com/ouiamelite/CarPrediction-App/assets/115350191/054dd9c4-6f74-408c-bf10-684636827bea)
 
                                                           L'age des voitures par prix
@@ -114,6 +115,7 @@ DIFFERENCE DE PRIX IMPORTANTE : L'écart de prix entre les deux types de boîte
 Le diagramme à barres montre une corrélation négative évidente entre l'âge d'une voiture et son prix.
 
 Cela signifie que plus une voiture est âgée, plus son prix a tendance à diminuer.
+
 ![image](https://github.com/ouiamelite/CarPrediction-App/assets/115350191/1ea32f04-c6f1-48ba-9dff-674b0d36abe9)
 
 
