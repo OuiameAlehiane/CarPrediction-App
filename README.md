@@ -32,6 +32,7 @@ Les bibliothèques: Pandas, Numpy, Matplotlib, Seaborn, Sickitlearn, Regex
 ![image](https://github.com/ouiamelite/CarPrediction-App/assets/115350191/a9a1d19b-3dc7-432d-b6cd-cd0ab29ccffd)
 
                                                        **Visualisation des données**
+                                                       
 
                                                       Nombre de voitures par Marques
                                                       
@@ -46,6 +47,7 @@ MARQUES DE LUXE : Mercedes-Benz, BMW, Audi et Land Rover ont des prix significa
 MARQUES ECONOMIQUES : Dacia, Kia, Hyundai, Fiat et Nissan offrent des prix généralement plus abordables avec une gamme de prix plus étroite.
 
 MARQUES INTERMEDIAIRES : Volkswagen, Renault, Peugeot, Citroën, Ford, Opel et Toyota occupent une position intermédiaire avec une gamme de prix plus large et un certain chevauchement entre elles.
+
 ![image](https://github.com/ouiamelite/CarPrediction-App/assets/115350191/7ef30f0c-6356-4974-83b0-14f7c5155a15)
                                              
                                                   Boites à moustache des prix par marques
