@@ -1,5 +1,5 @@
 # CarPrediction-App
-                                               Estimation de prix de voitures d'occassions
+                                          Estimation de prix de voitures d'occassions
 
 Ce projet vise à faciliter l'achat des voitures d'occassion tout en estimant le prix 
 
