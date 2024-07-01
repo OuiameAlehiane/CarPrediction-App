@@ -34,6 +34,8 @@ Les bibliothèques: Pandas, Numpy, Matplotlib, Seaborn, Sickitlearn, Regex
                                                        **Visualisation des données**
                                                        
 
+
+
                                                       Nombre de voitures par Marques
                                                       
 Les marques comme Renault, Volkswagen et Peugeot dominent clairement en termes de nombre de véhicules disponibles, indiquant une forte préférence ou une grande disponibilité de ces marques sur le marché concerné.
